@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 gem 'concurrent-ruby'
-gem 'datadog', '~> 2.0'
+gem 'datadog', '~> 2.32'
 gem 'pg'
 gem 'rails'
 gem 'rspec', '~> 3.4'
