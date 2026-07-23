@@ -72,7 +72,7 @@ GEM
       securerandom (>= 0.3)
       tzinfo (~> 2.0, >= 2.0.5)
       uri (>= 0.13.1)
-    base64 (0.2.0)
+    base64 (0.3.0)
     benchmark (0.4.0)
     bigdecimal (3.1.9)
     builder (3.3.0)
@@ -187,7 +187,7 @@ GEM
       concurrent-ruby (~> 1.0)
     uri (1.0.2)
     useragent (0.16.11)
-    websocket-driver (0.7.7)
+    websocket-driver (0.8.2)
       base64
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
